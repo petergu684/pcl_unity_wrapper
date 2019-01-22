@@ -1,0 +1,3 @@
+Introduction
+============
+Sub project of "unity_AR_to_model_app". This project is mainly a wrapper of PCL. The purpose is to import some useful functions in PCL into Unity C#. Also those operations that requires a large amount of computations (like processing those point cloud data) are also written here in C++ for the sake of efficiency. Generated dll file should be put under Assets/Plugins in Unity Project. 
